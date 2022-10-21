@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Main Section */
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.items{
+    height: 300px;
+    width: 800px;
+}
+
+.thumbs{
+    height: 300px;
+    position: relative;
+}
